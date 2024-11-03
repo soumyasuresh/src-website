@@ -1,0 +1,29 @@
+.logostyle{
+    width: 148px;
+    height: 108px;
+    padding-left: 27px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    margin-left: 16px;
+}
+.carousel-image{
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} 
+.bg-img-1{
+    background-image: url(imgs/BC542.jpg);
+}
+.bg-img-2{
+    background-image: url(imgs/swim5);
+}
+.bg-img-3{
+    background-image: url(imgs/bahrain-maintanance-prime.jfif);
+}
+.bg-img-4{
+    background-image: url(imgs/bahrain-maintanance-supreme.jfif);
+}
+.body{
+    margin: 0px;
+}
